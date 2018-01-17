@@ -24,7 +24,7 @@
 
 
 ---
-#### <a id="debug_tool"></a>一些常用的效果收集
+#### <a id="debug_tool"></a>一些常用的调试工具
 地址 | 简介 | 使用帮助
 ------- | ------- | -------
 [FLEX](https://github.com/Flipboard/FLEX)|Flipboard团队出的一个调试工具，可以很方便的对app的UI、网络进行调试（应有尽有）| [集成](https://www.jianshu.com/p/643d6ab52923)
