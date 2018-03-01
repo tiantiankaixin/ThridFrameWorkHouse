@@ -17,6 +17,7 @@
 [locooo](https://github.com/locooo/Developer)|常用框架、技术博客网站
 [iOS-tech-set](https://github.com/tiantiankaixin/iOS-tech-set)|iOS知识小集
 [awesome-ios](https://github.com/vsouza/awesome-ios?utm_source=gold_browser_extension)|老外收集的挺全的
+[有故事的卓同学](https://juejin.im/post/5a941ef96fb9a06346201d9e?utm_source=gold_browser_extension)|收集了一些大牛的blog
 
 
 ---
