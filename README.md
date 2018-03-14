@@ -25,7 +25,7 @@
 地址 | 简介
 ------- | -------
 [Marquee](https://github.com/jinht/Marquee)|跑马灯（系统消息滚动提示，支持横向纵向）
-
+[OCBarrage](https://github.com/iOS-Strikers/OCBarrage)|iOS弹幕库（全民tv开源的弹幕库有空看看）
 
 
 ---
