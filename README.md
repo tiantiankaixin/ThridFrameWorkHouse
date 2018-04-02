@@ -26,7 +26,7 @@
 ------- | -------
 [Marquee](https://github.com/jinht/Marquee)|跑马灯（系统消息滚动提示，支持横向纵向）
 [OCBarrage](https://github.com/iOS-Strikers/OCBarrage)|iOS弹幕库（全民tv开源的弹幕库有空看看）
-
+[SGPagingView](https://github.com/kingsic/SGPagingView)|滚动标题栏（资讯类app顶部导航控制栏）
 
 ---
 #### <a id="debug_tool"></a>一些常用的调试工具
