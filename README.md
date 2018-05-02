@@ -7,7 +7,7 @@
 * [借花献佛](#jiehua)
 * [常用效果](#general_use)
 * [开发小工具](#debug_tool)
-
+* [基础类小工具](#ji_chu)
 
 ---
 #### <a id="jiehua"></a>别人收集的一些第三方框架集合
@@ -34,3 +34,9 @@
 ------- | ------- | -------
 [FLEX](https://github.com/Flipboard/FLEX)|Flipboard团队出的一个调试工具，可以很方便的对app的UI、网络进行调试（应有尽有）| [集成](https://www.jianshu.com/p/643d6ab52923)
 [CocoaPods Packager](https://github.com/CocoaPods/cocoapods-packager)|这个pod插件给力，直接把podspec打包为framework，还支持dynamic framework | 有空看看
+
+---
+#### <a id="ji_chu"></a>一些基础类的拓展小工具
+地址 | 简介 
+------- | ------- 
+[joeshang](https://github.com/joeshang/SCRAttributedStringBuilder)|使用链式调用方式配置 NSAttributedString
