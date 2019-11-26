@@ -29,7 +29,7 @@
 [OCBarrage](https://github.com/iOS-Strikers/OCBarrage)|iOS弹幕库（全民tv开源的弹幕库有空看看）
 [SGPagingView](https://github.com/kingsic/SGPagingView)|滚动标题栏（资讯类app顶部导航控制栏）
 [JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)|滚动标题栏（类头条、腾讯视频顶部滑动切换效果）
-[WMPageController]https://github.com/wangmchn/WMPageController-Swift)|滚动标题栏（类头条、腾讯视频顶部滑动切换效果）
+[WMPageController](https://github.com/wangmchn/WMPageController-Swift)|滚动标题栏（类头条、腾讯视频顶部滑动切换效果）
 [GLNotificationBar](https://github.com/gokulgovind/GLNotificationBar)|仿系统通知弹窗
 
 ---
